@@ -4,7 +4,8 @@
 This project implements the MTHARS architecture, a multi-task deep learning approach designed to segment and classify IMU data streams. It was developed as part of my M.S. thesis research, where I collected and labeled swimming motion data using a single wrist-worn IMU and my [labeling software](https://github.com/markshperkin/LabelingSoftware).    
 The model is trained to detect and classify nine distinct swimming activities, including various stroke phases and underwater movements. The system is optimized for handling real-world, high-frequency sensor data in an end-to-end learning pipeline.     
 Swimming data was collected from a single wrist-worn IMU worn by athletes from the [University of South Carolina's Division I SEC swim team](https://gamecocksonline.com/sports/swimming/).       
-### Manuscript    
+
+### [Manuscript](https://github.com/markshperkin/SwimmingMTHARS/blob/main/menuscript.pdf) 
 
 To access the dataset, please email me.  
 
