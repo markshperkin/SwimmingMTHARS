@@ -5,7 +5,7 @@ This project implements the MTHARS architecture, a multi-task deep learning appr
 The model is trained to detect and classify nine distinct swimming activities, including various stroke phases and underwater movements. The system is optimized for handling real-world, high-frequency sensor data in an end-to-end learning pipeline.     
 Swimming data was collected from a single wrist-worn IMU worn by athletes from the [University of South Carolina's Division I SEC swim team](https://gamecocksonline.com/sports/swimming/).       
 
-### [Manuscript](https://github.com/markshperkin/SwimmingMTHARS/blob/main/menuscript.pdf) 
+### [Manuscript](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6T9vxTcAAAAJ&citation_for_view=6T9vxTcAAAAJ:u5HHmVD_uO8C) 
 
 To access the dataset, please email me.  
 
