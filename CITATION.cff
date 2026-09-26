@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "SwimmingMTHARS: Multi-Task Swimming Activity Recognition and Segmentation using Single IMU data"
+authors:
+  - family-names: Shperkin
+    given-names: Mark
+license: MIT
+repository-code: "https://github.com/markshperkin/SwimmingMTHARS"
+preferred-citation:
+  type: thesis
+  title: "Multi-Task Deep Learning Approach for Segmenting and Classifying Competitive Swimming Activities Using a Single IMU"
+  authors:
+    - family-names: Shperkin
+      given-names: Mark
+  institution:
+    name: "University of South Carolina"
+  year: 2025
